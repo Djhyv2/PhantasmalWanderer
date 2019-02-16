@@ -1,2 +1,1 @@
-# PhantasmalWanderer
-Lemmings-Style Platformer Game
+Phantasmal Wanderer was created during the 42 hour 2018 Columbia Game Jam 5 located at REDI Innovations on February 1-3. Phantasmal Wanderer was created as a group collaborative with programmers Dustin Hengel and Trevor Levins, artists Bella Dablemont and Isiah Davis-Stober, and playtester Jameson Sparks. It was built using the Unity Engine. It won Best Art at the event.
